@@ -11,6 +11,9 @@ Instead of relying solely on static rules or expensive LLM calls for every log, 
 
 Dashboard Preview: https://s-h-i-e-l-d-dashboard-795860681266.us-west1.run.app
 
+<img width="959" height="360" alt="image" src="https://github.com/user-attachments/assets/6b853534-7e48-4d8d-96d5-bdc7ffb5d281" />
+
+
 ## 🧠 Cognitive Architecture
 
 This agent demonstrates mastery of the following course concepts:
