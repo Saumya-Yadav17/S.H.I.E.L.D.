@@ -115,4 +115,4 @@ This agent demonstrates mastery of the following course concepts:
     *   `StatCard.tsx`, `Terminal.tsx`: UI Widgets.
 
 ## 📄 License
-MIT License. Created for the Google Gen AI "Enterprise Agents" Capstone.
+MIT License. 
